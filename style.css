@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-  color: #904b34;
+  color: #41444c;
 }
 
 body {
@@ -17,3 +17,6 @@ p1 {
   text-align: center;
 }
 
+h2 {
+  color: #904b34;
+}
