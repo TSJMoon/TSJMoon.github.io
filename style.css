@@ -4,8 +4,9 @@ h1 {
   font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
 
-p {
+p2 {
   color: #41444c;
+  text-align: center;
 }
 
 body {
@@ -13,7 +14,7 @@ body {
 }
 
 p1 {
-  color: #67503A;
+  color: #41444c;
   text-align: center;
 }
 
