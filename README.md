@@ -1,6 +1,6 @@
 <html>
 <head>
- <link rel="stylesheet" type="text/css" href="style.css" />
+ <link rel="stylesheet" type="text/css" href="https://tsjmoon.github.io/style.css" />
  <h>Welcome to this very amazing </h>
 </head>
 <body>
