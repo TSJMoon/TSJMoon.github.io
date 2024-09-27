@@ -8,7 +8,7 @@
 <img src="" alt="">
 <img src="" alt="">
 <button class="btn btn-success" onclick="location.href='[http://google.com](https://open.spotify.com/artist/1igijuBBmlMLyOsrmVbLFE?si=LQprXiqNSF6av9yG3um95w)';">
-  Google
+  Spotify
 </button>
 </body>
 </html>
