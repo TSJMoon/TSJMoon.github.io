@@ -8,7 +8,7 @@
  <div align="center">
   <img src="https://yt3.googleusercontent.com/Ww_ArnTLI7r_w-fKOs5jSyot6y4PsP18_KQZ8cNB_9hDkArjGjx0rReEoTLVUU0EFpj8sASKUA=s900-c-k-c0x00ffffff-no-rj" height="300" width="300">
  </div>
- <p></p>
+ <p id='p2'>So far he has 5 albums and 5 singles available to listen to in Spotify.</p>
  
  <img src="" alt="">
  <h2>His Spotify account</h2>
