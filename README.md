@@ -2,6 +2,7 @@
 <head>
  <link rel="stylesheet" type="text/css" href="style.css">
  <h1>Introduction to my favorite music artist/singer</h1>
+  <p id='p1'>Marcus Skeen</p>
 </head>
 <body>
  <p></p>
